@@ -2,7 +2,7 @@
 
 
 
-# To-do List Flutter
+# Covid Tracker App
 
 A new Flutter project.
 
